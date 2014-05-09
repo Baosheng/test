@@ -13,3 +13,9 @@ int main()
 	return 0;
 	
 }
+
+int func2()
+{
+	printf("This is func2.Edit by Happy Every day.");
+	return 0;
+}
