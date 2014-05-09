@@ -13,3 +13,9 @@ int main()
 	return 0;
 	
 }
+
+int func1()
+{
+	printf("This function is edited by BaoshengYu.");
+	return 0;
+}
