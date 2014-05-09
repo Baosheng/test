@@ -14,8 +14,15 @@ int main()
 	
 }
 
+<<<<<<< HEAD
 int func1()
 {
 	printf("This function is edited by BaoshengYu.");
+	return 0;
+
+}
+int func2()
+{
+	printf("This is func2.Edit by Happy Every day.");
 	return 0;
 }
