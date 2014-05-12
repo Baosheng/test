@@ -14,7 +14,6 @@ int main()
 	
 }
 
-<<<<<<< HEAD
 int func1()
 {
 	printf("This function is edited by BaoshengYu.");
