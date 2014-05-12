@@ -23,6 +23,7 @@ int func1()
 }
 int func2()
 {
+	#add some comment.
 	printf("This is func2.Edit by Happy Every day.");
 	return 0;
 }
